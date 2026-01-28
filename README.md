@@ -64,6 +64,11 @@ For the training and RL algorithms, see the Methods section of the paper.
 └── README.md
 ```
 
+# 🚀 Inference
+
+To run inference, execute: `python inference.py`
+
+
 <!-- ⸻ -->
 
 <!-- # 🔗 Resources
