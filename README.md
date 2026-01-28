@@ -15,9 +15,6 @@
 </div>
 
 
-> Official inference implementation of the paper "DON'T SETTLE TOO EARLY: SELF-REFLECTIVE REMASKING FOR DIFFUSION LANGUAGE MODELS".
-
-
 # 🚧 Update Progress
 
 
